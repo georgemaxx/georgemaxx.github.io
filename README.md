@@ -81,4 +81,4 @@ LOFFER只是容器，你的posts才是博客的核心。
 
 给我点一个☆吧！
 
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
+![img](https://georgemaxx.github.io/images/givemefive.png)
